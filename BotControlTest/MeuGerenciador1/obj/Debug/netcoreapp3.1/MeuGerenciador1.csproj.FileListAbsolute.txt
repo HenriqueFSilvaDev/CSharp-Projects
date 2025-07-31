@@ -1,0 +1,13 @@
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.exe
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.deps.json
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.runtimeconfig.json
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.runtimeconfig.dev.json
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.dll
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\bin\Debug\netcoreapp3.1\MeuGerenciador1.pdb
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.csprojAssemblyReference.cache
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.AssemblyInfoInputs.cache
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.AssemblyInfo.cs
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.csproj.CoreCompileInputs.cache
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.dll
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.pdb
+C:\Users\a0095417\MeuProjetoDotnet31\MeuGerenciador1\obj\Debug\netcoreapp3.1\MeuGerenciador1.genruntimeconfig.cache

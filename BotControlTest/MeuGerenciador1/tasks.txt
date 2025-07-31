@@ -1,0 +1,4 @@
+2,bbbb,False
+3,roboteste1,False
+5,robo Zeus,True
+6,robo deletar arquivos,False
